@@ -1,5 +1,6 @@
 import React, { memo } from "react";
 
+// style
 const style = {
   width: "100%",
   height: "200px",
